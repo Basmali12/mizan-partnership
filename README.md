@@ -1,5 +1,9 @@
 # Partnership interactive prototype
 
+Live demo: https://basmali12.github.io/mizan-partnership/
+
+GitHub Pages serves the `gh-pages` branch. Build locally with `npm run build` and publish the contents of `dist/` plus a `.nojekyll` file to that branch. GitHub Actions workflows are not used because this account currently has an Actions billing restriction.
+
 React, TypeScript, Tailwind CSS and Vite. Arabic RTL dashboard with in-memory transaction state only.
 
 ## Run
